@@ -22,10 +22,9 @@ Code bao gồm 3 git repo:
 ## Dữ liệu
 
 Nhóm đã sử dụng dữ liệu đã thu của lớp cho các khẩu lệnh **a, ban, trai, phai, silent**.
-Dữ liệu được đặt tại [drive của nhóm](https://drive.google.com/drive/folders/1mZRwE1U7EJtoJiPAcfQtPOdAp3jtrD4m) bao gồm 3 thư mục:
-- [train](https://drive.google.com/drive/folders/1uTa82s1p1Oz-5VtOALtk8glOmzXoPux7) - Thư mục chứa dữ liệu huấn luyện cho mô hình CNN
-- [trainDTW](https://drive.google.com/drive/folders/1BK9iRKuDhStsuw-pUK-yhFykIq32CMAg) - Thư mục chứa dữ liệu huấn luyện cho mô hình DTW với số lượng nhỏ audio
-- [test](https://drive.google.com/drive/folders/1gMvdIxOPh4gztdE-bJqhW7tX-g-LqgAt) - Thư mục chứa các audio test không năm trong 2 thư mục train
+Dữ liệu được đặt tại [drive của nhóm](https://drive.google.com/drive/folders/1mZRwE1U7EJtoJiPAcfQtPOdAp3jtrD4m) bao gồm 3 thư mục chính:
+- [train](https://drive.google.com/drive/folders/1uTa82s1p1Oz-5VtOALtk8glOmzXoPux7) [train_2] (https://drive.google.com/drive/u/2/folders/1VT4JLsG12vo9C-IW0SnaCkgPUw5gRaw7) - Thư mục chứa dữ liệu huấn luyện cho mô hình CNN. Bao gôm các thư mục con chứa file audio (wav) tương ứng với từng label (a, ban, trai, phai, silent). Số lượng các file wav từ 1000 - 2000 files tuỳ từng label. 
+- [test](https://drive.google.com/drive/folders/1gMvdIxOPh4gztdE-bJqhW7tX-g-LqgAt) - Thư mục chứa các audio test không nằm trong 2 thư mục train
 
 ## Video demo
 Video demo ứng dụng VIC
